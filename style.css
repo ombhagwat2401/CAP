@@ -1,0 +1,18 @@
+.cont{
+    width: 80%;
+    margin: auto;
+}
+
+
+header{
+    border-bottom: 2px solid #f2f2f2;
+}
+.work{
+    background-color: #f2f2f250;
+}
+@media(max-width: 500px){
+    .cont{
+        width: 100%;
+        margin: auto;
+    }
+}
